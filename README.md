@@ -54,7 +54,7 @@ These filters allow users to analyze the data dynamically.
 
 ## Dashboard Screenshot
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
