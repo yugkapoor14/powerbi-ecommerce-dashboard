@@ -80,7 +80,7 @@ Repository contains the following files:
 
 ## Author
 
-Created by **[Your Name]**
+Created by **[Yug Kapoor]**
 
 ---
 
